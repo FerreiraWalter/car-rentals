@@ -1,0 +1,16 @@
+[
+ {
+  "id": "32687352-f988-4e78-a800-f2a99881e2d5",
+  "name": "Camry",
+  "releaseYear": 2022,
+  "available": true,
+  "gasAvailable": true
+ },
+ {
+  "id": "bd08d030-fbc9-4509-af4f-672f4f5c13ff",
+  "name": "Golf",
+  "releaseYear": 2022,
+  "available": true,
+  "gasAvailable": true
+ }
+]
